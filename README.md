@@ -3,4 +3,4 @@
 ### spring security
 #### spring MVC
 ##### using spring JPA
-### payment gatway
+### payment gateway
